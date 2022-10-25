@@ -25,6 +25,7 @@ THEN I am able to successfully create, update, and delete data in my database
 * In the command line, initialize with "npm init"
 * Check the package.json for your dependencies: dotenv, express, mysql2, sequelize
 * If they are all contained in the package.json, run "npm install"
+* Make sure there is a .env file at the root of repo, add DB_NAME = ecommerce_db, DB_USER = mysql username, DB_PW = mysql password.
 * Once everything is installed, make sure your MySQL server is on and log into mysql "mysql -u root -p" in the command line
 * Type "USE ecommerce_db;" and then "source db/schema.sql" into the command line to connect to the database and initialize.
 * Quit out of mysql "quit;"
