@@ -1,5 +1,7 @@
 # Buy-and-Sell-ORM
 
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/dd/Desktop/hw/Buy-and-Sell-ORM/img/Screen%20Shot%202022-10-26%20at%2012.49.07%20PM.png?version%3D1666803037931)
+
 ## Application Objective
 
 As a manager at an internet retail company it is important to have state of the art
@@ -29,13 +31,13 @@ THEN I am able to successfully create, update, and delete data in my database
 * Once everything is installed, make sure your MySQL server is on and log into mysql "mysql -u root -p" in the command line
 * Type "USE ecommerce_db;" and then "source db/schema.sql" into the command line to connect to the database and initialize.
 * Quit out of mysql "quit;"
-* Start the server "npm start"
 * Seed the database "npm run seed"
+* Start the server "npm start"
 * Create routes (GET, CREATE, UPDATE, DELETE) in Insomnia for the models as shown in the walkthrough and test them.
 
 ## Walkthrough
 
-
+https://drive.google.com/file/d/1cAZMrYydz32lMCHZF57WXsyr2vaHVtOl/view?usp=sharing
 
 ## Github Repository
 
